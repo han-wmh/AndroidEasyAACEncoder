@@ -1,0 +1,3 @@
+rootProject.name='AndroidEasyAACEncoder'
+include ':app'
+include ':library'
